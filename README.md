@@ -15,9 +15,9 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Official
 
-- [Cedar Project](https://www.cedarpolicy.com/en) - Home page of the Cedar language.
+- [Cedar Project](https://www.cedarpolicy.com/) - Home page of the Cedar language.
 - [Cedar Docs](https://docs.cedarpolicy.com/) - Language reference and guides.
-- [Cedar Playground](https://www.cedarpolicy.com/en/playground) - Try Cedar policies in the browser.
+- [Cedar Playground](https://docs.cedarpolicy.com/overview/resources.html) - Try Cedar policies in the browser (linked from the official "Start using Cedar" page).
 - [cedar-policy on GitHub](https://github.com/cedar-policy) - Official organization with the Cedar source repositories.
 - [Cedar Community](https://io.permit.io/07ATaP) - Community link (short link; destination not independently verified).
 
