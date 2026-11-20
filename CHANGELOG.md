@@ -2,12 +2,11 @@
 
 All notable changes to this list. Format based on [Keep a Changelog](https://keepachangelog.com/).
 
-## [Unreleased]
+## 2026-11-20
 
 ### Added
 - CONTRIBUTING guide, link-check CI workflow (lychee) and Dependabot config for Actions.
-- Official Cedar repositories: cedar, cedar-go, cedar-spec, cedar-examples.
-- Descriptions for every entry and a vendor disclosure.
+- Descriptions for every entry and vendor tags.
 
 ### Changed
 - Restructured README into standard awesome-list format with a linked table of contents.
@@ -15,3 +14,7 @@ All notable changes to this list. Format based on [Keep a Changelog](https://kee
 
 ### Removed
 - Hot-linked header image from a third-party image host (postimg.cc).
+
+### Notes
+- This list has no tagged releases; entries are dated.
+- Header image removed (could not be re-hosted); restore from a local copy under assets/ if wanted.

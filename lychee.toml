@@ -1,4 +1,5 @@
 max_retries = 3
 timeout = 30
-accept = ["200..=299", "429"]
+accept = ["200..=299"]
+exclude = ["linkedin\\.com"]
 user_agent = "Mozilla/5.0 (compatible; awesome-cedar-linkcheck)"

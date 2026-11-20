@@ -13,7 +13,7 @@ Thanks for helping keep this list useful.
 `- [Name](https://example.com) - Short description ending with a period.`
 
 - Keep items alphabetical or logically ordered within their section, one resource per line.
-- Use https links to the canonical page; no link shorteners or tracking parameters.
+- Use https links to the canonical page; no link shorteners or tracking parameters (one existing community short link is a known exception until its canonical destination is confirmed).
 - Put each entry in the most fitting section.
 
 ## Pull request checklist
