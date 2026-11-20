@@ -1,0 +1,6 @@
+max_retries = 3
+timeout = 30
+accept = ["200..=299"]
+# io.permit.io short links answer automated checkers with 403 (bot blocking), so they cannot be checked here.
+exclude = ["linkedin\\.com", "io\\.permit\\.io"]
+user_agent = "Mozilla/5.0 (compatible; awesome-cedar-linkcheck)"
